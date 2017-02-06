@@ -4,3 +4,4 @@ apples
 peaches
 mangoes
 plums
+lemons
